@@ -28,7 +28,7 @@ public class Runner {
     -@CucumberOptions notasyonu icinde
     features : Runner dosyasinin feature dosyasini nereden bulacagini tarif eder
     glue: stepDefinitions yolunu belirtiriz
-    tag: Hangi tag i calistirmak istiyorsak onu belirler
+    tag: Hangi tag i calistirmak istiyorsak   onu belirler.
 
     dryRun:iki secenek vardir
     dryRun=true   dersek testimizi calistirmadan eksik adimlari bize verir
